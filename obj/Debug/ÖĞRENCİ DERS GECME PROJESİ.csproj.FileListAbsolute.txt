@@ -1,0 +1,8 @@
+C:\Users\tarik\source\repos\ÖĞRENCİ DERS GECME PROJESİ\ÖĞRENCİ DERS GECME PROJESİ\bin\Debug\ÖĞRENCİ DERS GECME PROJESİ.exe.config
+C:\Users\tarik\source\repos\ÖĞRENCİ DERS GECME PROJESİ\ÖĞRENCİ DERS GECME PROJESİ\bin\Debug\ÖĞRENCİ DERS GECME PROJESİ.exe
+C:\Users\tarik\source\repos\ÖĞRENCİ DERS GECME PROJESİ\ÖĞRENCİ DERS GECME PROJESİ\bin\Debug\ÖĞRENCİ DERS GECME PROJESİ.pdb
+C:\Users\tarik\source\repos\ÖĞRENCİ DERS GECME PROJESİ\ÖĞRENCİ DERS GECME PROJESİ\obj\Debug\ÖĞRENCİ DERS GECME PROJESİ.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\ÖĞRENCİ DERS GECME PROJESİ\ÖĞRENCİ DERS GECME PROJESİ\obj\Debug\ÖĞRENCİ DERS GECME PROJESİ.csproj.SuggestedBindingRedirects.cache
+C:\Users\tarik\source\repos\ÖĞRENCİ DERS GECME PROJESİ\ÖĞRENCİ DERS GECME PROJESİ\obj\Debug\ÖĞRENCİ DERS GECME PROJESİ.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\ÖĞRENCİ DERS GECME PROJESİ\ÖĞRENCİ DERS GECME PROJESİ\obj\Debug\ÖĞRENCİ DERS GECME PROJESİ.exe
+C:\Users\tarik\source\repos\ÖĞRENCİ DERS GECME PROJESİ\ÖĞRENCİ DERS GECME PROJESİ\obj\Debug\ÖĞRENCİ DERS GECME PROJESİ.pdb
